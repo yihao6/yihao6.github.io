@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "About me"
+title: "Professional Experience"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Work experience
-======
+
 * July 2024: Research Assistant Professor
   * Vanderbilt University University
   * Medical-image Analysis and Statistical Interpretation Lab, AI fellow, Valiant
